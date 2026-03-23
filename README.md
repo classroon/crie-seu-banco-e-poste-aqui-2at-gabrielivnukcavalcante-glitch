@@ -10,7 +10,7 @@ Criar um banco de dados relacional contendo uma tabela de contatos e garantir qu
 
 🛠️ Passo a Passo
 Criar o Banco de Dados No terminal do seu Codespace, crie o arquivo do banco de dados utilizando o seu nome. Substitua seu_nome pelo seu nome real:
-bash sqlite3 seu_nome.db
+b
 
 Use o código com cuidado.
 
